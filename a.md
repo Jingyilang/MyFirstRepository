@@ -1,3 +1,3 @@
-# This is my first ms file.
+# This is my first md file.
 ## Just test
 END
